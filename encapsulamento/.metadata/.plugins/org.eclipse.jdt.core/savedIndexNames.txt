@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Proevento\Desktop\encapsulamento\.metadata\.plugins\org.eclipse.jdt.core
+4024747138.index
+926846591.index
+3730915994.index

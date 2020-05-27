@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="model.cachorro"/>
+    <fullyQualifiedTypeName name="model.Gato"/>
+    <fullyQualifiedTypeName name="model.Aeronave"/>
+    <fullyQualifiedTypeName name="model.Eletrodomestico"/>
+    <fullyQualifiedTypeName name="modelVeiculos.carro"/>
+    <fullyQualifiedTypeName name="modelVeiculos.moto"/>
+    <fullyQualifiedTypeName name="modelVeiculos.Veiculos"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

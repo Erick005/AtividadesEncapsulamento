@@ -1,0 +1,15 @@
+package main;
+
+import model.Eletrodomestico;
+
+public class EletrodomesticoMain {
+
+	public static void main(String[] args) {
+		Eletrodomestico moveis = new Eletrodomestico();
+		
+		moveis.setFogao(fogao);
+		moveis.setGeladeira(geladeira);
+		moveis.setMesa(mesa);
+	}
+
+}

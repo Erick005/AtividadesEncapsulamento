@@ -1,0 +1,21 @@
+package modelVeiculos;
+
+public class Veiculos {
+	private String freios;
+	private String cor;
+	public String getFreios() {
+		return freios;
+	}
+	public void setFreios(String freios) {
+		this.freios = freios;
+	}
+	public String getCor() {
+		return cor;
+	}
+	public void setCor(String cor) {
+		this.cor = cor;
+	}
+	public void derrapagem() {
+		System.out.println("Os veiculos tem o freio " + getFreios());
+	}
+}
